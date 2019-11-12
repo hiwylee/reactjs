@@ -6,9 +6,8 @@
 * code editor
   * [vscode] (https://code.visualstudio.com/download)
 ### create-react-app 설치
- npm install -g create-react-app 
-<br>or</br>
- yarn global add create-react-app
+ * npm install -g create-react-app
+ * yarn global add create-react-app
 
 ### create-react-app 사용(프로젝트 생성)
 * create-react-app hello-react
