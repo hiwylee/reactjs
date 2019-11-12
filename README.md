@@ -4,7 +4,7 @@
   * [Node.js](https://nodejs.org/)
   * [Yarn](https://yarnpkg.com/en/docs/install#windows-stable)
 * code editor
-  * [vscode] (https://code.visualstudio.com/download)
+  * [vscode](https://code.visualstudio.com/download)
 ### 1). create-react-app 설치
     npm install -g create-react-app
         or 
