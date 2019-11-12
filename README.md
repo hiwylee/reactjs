@@ -13,5 +13,5 @@
 * create-react-app hello-react
 
 ### 3. 프로젝트 실행
-> cd hello-react
-> yarn start
+ cd hello-react
+ yarn start
