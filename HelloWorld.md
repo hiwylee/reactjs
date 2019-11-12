@@ -36,5 +36,5 @@ You can now view hello-world in the browser.
 Note that the development build is not optimized.
 To create a production build, use yarn build.
 ```
-![foo](/images/hellow-world.jpg "title")
+![foo](/hello-world-01.png "hellow world")
 
