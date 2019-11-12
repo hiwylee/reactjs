@@ -16,3 +16,23 @@ yarn config set strict-ssl false
 ```
 
 ## 1. 프로젝트 생성
+
+'''
+yarn create react-app hello-world
+cd hello-world
+'''
+'''
+yarn start
+yarn run v1.19.1
+$ react-scripts start
+Starting the development server...
+Compiled successfully!
+
+You can now view hello-world in the browser.
+
+  Local:            http://localhost:3000/
+  On Your Network:  http://10.179.90.8:3000/
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+'''
